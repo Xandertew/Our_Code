@@ -1,0 +1,29 @@
+Week 4: Trees: datastructuren en compressie algoritmen
+Opdracht 1: Theoretische opdracht
+In het derde jaar ga je stage lopen of doe je een minor. De gegevens voor
+mogelijke stageplaatsen staan in onderstaande tabel.
+Teken (papier) hoe je deze gegevens in een tree zou kunnen opnemen.
+1.	Wat voor tree gebruik je?
+    Zie whatsapp
+    
+2.	Hoe zou je een decision tree kunnen maken van jouw tree?
+    Zie whatsapp
+    
+3.	Kun je een binary decision tree tekenen?
+    Zie whatsapp
+
+Beschouw dit voorbeeld van een DNA sequentie: tatgccaatgcatttttgcccgcatgaagcatgtagcgcgcatgcctacctgcacgc
+a)	Wat is de waarschijnlijkheid van ieder symbool? 
+a.	A(12)	G(13)	T(14)	C(18)
+b)	Construeer een Huffman Boom voor deze specifieke sequentie Toon de uiteindelijke boomstructuur. 
+    Zie whatsapp
+c)	Gegeven deze boom, wat zijn de codes voor ieder symbool? 
+a.	A(00)	G(01)	T(10)	C(11)
+d)	Wat is de encoded versie van je DNA sequentie? e) Is het Huffman algoritme efficiënt om DNA sequenties mee te comprimeren? 
+a.	100010011111000010011100101010101001111111011100100100000111001001100001110111011100100111111000111110101100110111
+e)	Ben je in staat om een efficiënter algoritme op te stellen voor DNA compressie? 
+a.	Ja 
+f)	Zou je verschillen kunnen ontdekken tussen coderende en niet coderende DNA sequenties in DNA met je efficiëntere algoritme?
+a.	Nee
+g)	Zou je verschillen kunnen ontdekken tussen coderende en niet coderendeDNA sequenties in DNA met je efficiëntere algoritme?
+a.	Ja dan zouden er patronen in de binaire code moeten staan.
