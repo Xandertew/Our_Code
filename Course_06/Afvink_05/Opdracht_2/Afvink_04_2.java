@@ -9,7 +9,10 @@ public class Afvink_04_2 {
     }
     public static void Start(){
         String input = JOptionPane.showInputDialog(null, "What amino acid would you like to know");
-
+//      Scanner myObj = new Scanner(System.in);
+//      System.out.println("Enter The amino acid");
+//      String input = myObj.nextLine();
+        
         if (input == null) {
             System.out.println("Exiting program");
             System.exit(0);
