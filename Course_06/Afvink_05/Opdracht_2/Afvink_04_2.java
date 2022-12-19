@@ -1,6 +1,7 @@
 package Course_06.Afvink_05.Opdracht2;
 
 import javax.swing.*;
+import java.util.Scanner;
 
 public class Afvink_04_2 {
 
