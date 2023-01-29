@@ -1,0 +1,53 @@
+LOCUS       JACMIG010000000        27523 rc    DNA     linear   INV 30-SEP-2020
+DEFINITION  Levipalatum texanum isolate TMG5, whole genome shotgun sequencing
+            project.
+ACCESSION   JACMIG000000000
+VERSION     JACMIG000000000.1
+DBLINK      BioProject: PRJNA655932
+            BioSample: SAMN15760645
+KEYWORDS    WGS.
+SOURCE      Levipalatum texanum
+  ORGANISM  Levipalatum texanum
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Rhabditina; Diplogasteromorpha; Diplogasteroidea; Diplogasteridae;
+            Levipalatum.
+REFERENCE   1  (bases 1 to 27523)
+  AUTHORS   Casasa,S., Biddle,J.F., Koutsovoulos,G.D. and Ragsdale,E.J.
+  TITLE     Polyphenism of a novel trait integrated rapidly evolving genes into
+            ancestrally plastic networks
+  JOURNAL   Mol. Biol. Evol. (2020) In press
+   PUBMED   32931588
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 27523)
+  AUTHORS   Casasa,S., Biddle,J.F., Koutsovoulos,G.D. and Ragsdale,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2020) Biology, Indiana University, 915 E 3rd St,
+            Bloomington, IN 47405, USA
+COMMENT     The Levipalatum texanum whole genome shotgun (WGS) project has the
+            project accession JACMIG000000000.  This version of the project
+            (01) has the accession number JACMIG010000000, and consists of
+            sequences JACMIG010000001-JACMIG010027523.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 29-OCT-2018
+            Assembly Method        :: SPAdes v. 3.13.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 110x
+            Sequencing Technology  :: Illumina NextSeq
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..27523
+                     /organism="Levipalatum texanum"
+                     /mol_type="genomic DNA"
+                     /isolate="TMG5"
+                     /isolation_source="rhizosphere of Malus sp."
+                     /db_xref="taxon:1486449"
+                     /tissue_type="whole body"
+                     /dev_stage="mixed stage"
+                     /country="USA: near Fredericksburg, Virginia"
+                     /collection_date="29-May-2011"
+                     /collected_by="Theresa Grana"
+                     /identified_by="Erik Ragsdale"
+WGS         JACMIG010000001-JACMIG010027523
+//

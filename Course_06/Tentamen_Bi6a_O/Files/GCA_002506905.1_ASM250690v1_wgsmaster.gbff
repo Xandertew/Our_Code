@@ -1,0 +1,53 @@
+LOCUS       DAYM01000000              14 rc    DNA     linear   ENV 10-OCT-2017
+DEFINITION  MAG TPA_asm: Methanomassiliicoccaceae archaeon UBA328, whole genome
+            shotgun sequencing project.
+ACCESSION   DAYM00000000
+VERSION     DAYM00000000.1
+DBLINK      BioProject: PRJNA348753
+            BioSample: SAMN06027624
+            Sequence Read Archive: SRR5036986
+KEYWORDS    WGS; Metagenome Assembled Genome; MAG; Third Party Data; TPA;
+            TPA:assembly.
+SOURCE      Methanomassiliicoccaceae archaeon UBA328 (fermentation metagenome)
+  ORGANISM  Methanomassiliicoccaceae archaeon UBA328
+            Archaea; Candidatus Thermoplasmatota; Thermoplasmata;
+            Methanomassiliicoccales; Methanomassiliicoccaceae.
+REFERENCE   1  (bases 1 to 14)
+  AUTHORS   Parks,D.H., Rinke,C., Chuvochina,M., Chaumeil,P.A., Woodcroft,B.J.,
+            Evans,P.N., Hugenholtz,P. and Tyson,G.W.
+  TITLE     Recovery of nearly 8,000 metagenome-assembled genomes substantially
+            expands the tree of life
+  JOURNAL   Nat Microbiol (2017) In press
+   PUBMED   28894102
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 14)
+  AUTHORS   Parks,D.H., Hugenholtz,P. and Tyson,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-NOV-2016) School of Chemistry and Molecular
+            Biosciences, University of Queensland, Chemistry Bld, Cooper Road,
+            St Lucia, Brisbane, Queensland 4072, Australia
+COMMENT     The Methanomassiliicoccaceae archaeon UBA328 whole genome shotgun
+            (WGS) project has the project accession DAYM00000000.  This version
+            of the project (01) has the accession number DAYM01000000, and
+            consists of sequences DAYM01000001-DAYM01000014.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: CLC de novo assembler v. 4.4.1
+            Genome Coverage       :: 23.69x
+            Sequencing Technology :: Illumina HiSeq 2000
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..14
+                     /organism="Methanomassiliicoccaceae archaeon UBA328"
+                     /mol_type="genomic DNA"
+                     /isolate="UBA328"
+                     /isolation_source="mud"
+                     /db_xref="taxon:1915641"
+                     /environmental_sample
+                     /country="China: Luzhou"
+                     /metagenome_source="fermentation metagenome"
+                     /note="Genome binned from sequencing reads available in
+                     SRX691275;
+                     metagenomic"
+WGS         DAYM01000001-DAYM01000014
+//

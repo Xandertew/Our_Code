@@ -1,0 +1,53 @@
+LOCUS       DAUO01000000              69 rc    DNA     linear   ENV 10-OCT-2017
+DEFINITION  MAG TPA_asm: Thermoplasmatales archaeon UBA566, whole genome
+            shotgun sequencing project.
+ACCESSION   DAUO00000000
+VERSION     DAUO00000000.1
+DBLINK      BioProject: PRJNA348753
+            BioSample: SAMN06027153
+            Sequence Read Archive: SRR5037220
+KEYWORDS    WGS; Metagenome Assembled Genome; MAG; Third Party Data; TPA;
+            TPA:assembly.
+SOURCE      Thermoplasmatales archaeon UBA566 (biofilm metagenome)
+  ORGANISM  Thermoplasmatales archaeon UBA566
+            Archaea; Candidatus Thermoplasmatota; Thermoplasmata;
+            Thermoplasmatales.
+REFERENCE   1  (bases 1 to 69)
+  AUTHORS   Parks,D.H., Rinke,C., Chuvochina,M., Chaumeil,P.A., Woodcroft,B.J.,
+            Evans,P.N., Hugenholtz,P. and Tyson,G.W.
+  TITLE     Recovery of nearly 8,000 metagenome-assembled genomes substantially
+            expands the tree of life
+  JOURNAL   Nat Microbiol (2017) In press
+   PUBMED   28894102
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 69)
+  AUTHORS   Parks,D.H., Hugenholtz,P. and Tyson,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-NOV-2016) School of Chemistry and Molecular
+            Biosciences, University of Queensland, Chemistry Bld, Cooper Road,
+            St Lucia, Brisbane, Queensland 4072, Australia
+COMMENT     The Thermoplasmatales archaeon UBA566 whole genome shotgun (WGS)
+            project has the project accession DAUO00000000.  This version of
+            the project (01) has the accession number DAUO01000000, and
+            consists of sequences DAUO01000001-DAUO01000069.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: CLC de novo assembler v. 4.4.1
+            Genome Coverage       :: 48.13x
+            Sequencing Technology :: Illumina HiSeq 2000
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Thermoplasmatales archaeon UBA566"
+                     /mol_type="genomic DNA"
+                     /isolate="UBA566"
+                     /isolation_source="Richmond Mine AB20 location"
+                     /db_xref="taxon:1915734"
+                     /environmental_sample
+                     /country="USA: Richmond Mine"
+                     /metagenome_source="biofilm metagenome"
+                     /note="Genome binned from sequencing reads available in
+                     SRX103574;
+                     metagenomic"
+WGS         DAUO01000001-DAUO01000069
+//

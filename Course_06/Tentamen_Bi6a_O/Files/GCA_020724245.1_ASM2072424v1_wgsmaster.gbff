@@ -1,0 +1,52 @@
+LOCUS       DYHJ01000000              34 rc    DNA     linear   ENV 02-NOV-2021
+DEFINITION  MAG TPA_asm: Candidatus Aenigmarchaeum sp. isolate BE2012_32_11,
+            whole genome shotgun sequencing project.
+ACCESSION   DYHJ00000000
+VERSION     DYHJ00000000.1
+DBLINK      BioProject: PRJNA767587
+            BioSample: SAMN22209317
+            Sequence Read Archive: SRR13164375
+KEYWORDS    WGS; Metagenome Assembled Genome; MAG; Third Party Data; TPA;
+            TPA:assembly.
+SOURCE      Candidatus Aenigmarchaeum sp. (ground-water metagenome)
+  ORGANISM  Candidatus Aenigmarchaeum sp.
+            Archaea; Candidatus Aenigmarchaeota; Candidatus Aenigmarchaeum.
+REFERENCE   1  (bases 1 to 34)
+  AUTHORS   Bornemann,T.L., Adam,P.S., Turzynski,V., Schreiber,U.,
+            Figueroa-Gonzalez,P.A., Rahlff,J., Koester,D., Schmidt,T.C.,
+            Schunk,R., Krauthausen,B. and Probst,A.J.
+  TITLE     Geological degassing enhances microbial metabolism in the
+            continental subsurface
+  JOURNAL   bioRxiv (2020)
+REFERENCE   2  (bases 1 to 34)
+  AUTHORS   Bornemann,T.L.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2021) AG Probst / GAME, University
+            Duisburg-Essen, Universitaetsstrasse, Essen 45151, Germany
+COMMENT     The Candidatus Aenigmarchaeum sp. whole genome shotgun (WGS)
+            project has the project accession DYHJ00000000.  This version of
+            the project (01) has the accession number DYHJ01000000, and
+            consists of sequences DYHJ01000001-DYHJ01000034.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: MetaSPAdes v. 3.12
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 11x
+            Sequencing Technology  :: Illumina HiSeq 2000
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..34
+                     /organism="Candidatus Aenigmarchaeum sp."
+                     /mol_type="genomic DNA"
+                     /isolate="BE2012_32_11"
+                     /isolation_source="groundwater filtered on filters"
+                     /db_xref="taxon:2883549"
+                     /environmental_sample
+                     /country="South Africa: Beatrix mine in Welkom district"
+                     /lat_lon="28.1424 S 26.4745 E"
+                     /collection_date="2012-07-27"
+                     /metagenome_source="ground-water metagenome"
+                     /note="metagenomic"
+WGS         DYHJ01000001-DYHJ01000034
+//
